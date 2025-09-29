@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+youtube_dl
+instaloader
+requests
