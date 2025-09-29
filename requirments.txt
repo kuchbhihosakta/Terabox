@@ -2,3 +2,8 @@ pyTelegramBotAPI
 youtube_dl
 instaloader
 requests
+python-telegram-bot==20.7
+yt-dlp
+aiohttp
+requests
+beautifulsoup4
